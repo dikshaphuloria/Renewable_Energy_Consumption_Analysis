@@ -12,6 +12,8 @@ Project summary can be found:
 https://dikshaphuloria.github.io/Renewable_Energy_Consumption_Analysis/DataVisualization.html
 
 
+## Guide
+
 Please follow the below step to reproduce our project
 
 Clone the git repository
