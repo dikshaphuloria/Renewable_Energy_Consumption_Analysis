@@ -14,7 +14,7 @@ https://dikshaphuloria.github.io/Renewable_Energy_Consumption_Analysis/DataVisua
 
 ## Guide
 
-Please follow the below step to reproduce our project
+Please follow the below steps to reproduce the project
 
 Clone the git repository
 
@@ -26,8 +26,8 @@ Clone the git repository
 
 • Add your Ninjas API Key in the Code/api_file.txt file.
 
-• Run the DataWrangling.ipynb notebook to look at the analysis conducted and complete the pre-processing steps required for our project.
+• Run the DataWrangling.ipynb notebook to look at the analysis conducted and complete the pre-processing steps required for the project.
 
-• Run all the cells of the DataVisualization.ipynb to create the dynamic plots created for our exploratory data analysis.
+• Run all the cells of the DataVisualization.ipynb to create the dynamic plots created for the exploratory data analysis.
 
 • Run the DataModels.ipynb to run the regression models created in the file and to predict the renewable energy consumption data for the year 2023-2024.
