@@ -1,0 +1,12 @@
+matplotlib.pyplot
+pandas
+plotly.express
+plotly.graph_objects
+numpy
+plotly.colors
+wbdata
+datetime
+sklearn.linear_model
+sklearn.metrics
+requests
+ipynb
